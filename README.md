@@ -1,6 +1,6 @@
-# LIMONxSIJUKA Tool 🔥 PAID 
+# LIMONxSIJUKA Tool 🔥 𝑷𝒂𝒊𝒅
 # Approval Path System 
-
+![logo](https://github.com/LMNx9-JOHNY/LIMONxSIJUKA_Approval/blob/main/Screenshot_20231016-025153.png)
 # 𝐂𝐨𝐦𝐦𝐚𝐧𝐝  -👇
 
     pkg update && pkg upgrade
